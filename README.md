@@ -30,7 +30,7 @@ You are required to code a program that can create a virtual Turkish Super Lig T
 -	When you submit your code it should be submitted as a single c file “student_no.c” 
 -	You are expected to submit a code that can be compiled in a Debian based Linux OS. Compiling and running the code is your responsibility. We will not help you to compile and debug your code during the exam.
 
-### Scoring and Group Work and Important Dates
+### Scoring, Group Work and Important Dates
 -	The project must be coded as a group formed by two students.Each student should undertake certain parts of the code.
 -	Each student will get 40% from the project and 60% from the part of his/her responsibility.
 -	The project points will be your midterm exam results.
@@ -38,5 +38,20 @@ You are required to code a program that can create a virtual Turkish Super Lig T
 -	The final submission date is 28-04-2019.
 -	The exam dates will be announced later.
 
+|                                                                                      |     |
+|--------------------------------------------------------------------------------------|-----|
+| Compile and Run                                                                      | %10 |
+| Moduler programming and coding style, documentation                                  | %20 |
+| Keyboard based demonstration                                                         | %10 |
+| Usage of Structs in the code - File operations                                       | %10 |
+| Sorting algorithms - String operations, sorting according to team name               | %15 |
+| The handling of incorrect inputs - Calculating points by reading entries from a file | %15 |
+| Presentation and being able to change his/her code                                   | %20 |
 
+
+| Texts Required for Homework |                                                    |                                                                                                 |
+|-----------------------------|----------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| ayarlar.txt                 | Number of teams<br/> Win Points<br/> Draw Points<br/> Loss Points | 10<br/> 2<br/> 1<br/> -1<br/>                                                                                       |
+| takimlar.txt                | A<br/> B<br/> C<br/> D<br/> E<br/> F<br/> G<br/> H<br/> I<br/> J<br/>                                | Arsenal<br/> Chelsea<br/> Liverpool<br/> Tottenham<br/> Brighton<br/> Everton<br/> Burnley<br/> Southampton<br/> Watford<br/> Fulham         |
+| maclar1.txt                 |                                                    | A 3 B 0<br/> C 0 D 0<br/> E 1 F 3<br/> G 4 H 5<br/> B 0 A 2<br/> I 1 J 0<br/> B 1 C 2<br/> D 3 E 2<br/> F 1 G 0<br/> A 1 B 1<br/> H 0 I 0<br/> J 2 A 1 |
 
