@@ -1,5 +1,5 @@
-# Virtual-Turkish-Super-Lig-Table
-You are required to code a program that can create a virtual Turkish Super Lig Table. 
+# Virtual-Turkish-Super-League-Table
+You are required to code a program that can create a virtual Turkish Super League Table. 
 ### Project Requirements
 -	There are 10 teams in the league. And the number of teams may be changed if needed. 
 -	The team gets 2 points for a win, 1 point for a draw and -1 point for a loss. And these may be changed if needed. 
